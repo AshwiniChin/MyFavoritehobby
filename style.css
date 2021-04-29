@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    
+
 }
 
 .profile {
@@ -40,8 +40,8 @@ h2 {
 #hobby {
 
     padding: 50px;
-     background: linear-gradient( pink 0%, blueviolet 100%);
-    
+    background: linear-gradient(pink 0%, blueviolet 100%);
+
 }
 
 .line {
@@ -53,8 +53,7 @@ h2 {
 
 
 p {
-    color:blueviolet
-    max-width: 550px;
+    color: blueviolet max-width: 550px;
     margin: 25px auto;
     font-size: 17px;
     line-height: 1.3;
@@ -87,4 +86,27 @@ p {
 
 .links:hover {
     background-color: deeppink;
+}
+
+.painting {
+    width: 400px;
+    margin: 50px;
+    height: 400px;
+}
+
+#myCarousel {
+    background-color: sandybrown;
+}
+
+#myCarousel img {
+    width: 400px;
+    height: 550px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
 }
